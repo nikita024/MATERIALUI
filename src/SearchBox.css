@@ -1,0 +1,12 @@
+.SearchBox {
+    text-align: center;
+    margin:25px;
+}
+
+.cardContainer {
+    display:flex;
+}
+
+.InfoBox {
+    text-align: center;
+}
