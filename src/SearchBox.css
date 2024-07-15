@@ -1,12 +1,6 @@
-.SearchBox {
+.SearchBox{
     text-align: center;
-    margin:25px;
-}
-
-.cardContainer {
-    display:flex;
-}
-
-.InfoBox {
-    text-align: center;
+    margin-bottom: 25px;
+    margin: 10px 0 0 10px;
+    
 }
