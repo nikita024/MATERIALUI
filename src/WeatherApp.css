@@ -1,10 +1,8 @@
 .WeatherApp{
-    height: 2rem;
+    height: 100%;
     text-align: center;
-    /* background-color: rgba(255, 255, 255, 0.429); */
+    background-image:url("https://images.unsplash.com/photo-1667878331782-4d4b8486c266?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyZHMlMjBmbHlpbmclMjBpbiUyMHRoZSUyMHNreXxlbnwwfHwwfHx8MA%3D%3D");
     color: black;
     padding: 10px;
     margin-top: 20px;
-    /* border-radius: 10px; */
-    /* box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12) */
 }
